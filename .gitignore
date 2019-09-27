@@ -1,3 +1,9 @@
+.cache
+.coverage
+.idea
+.mypy_cache
 /build
 /dist
 /wg_pyutils.egg-info
+__pycache__
+htmlcov
